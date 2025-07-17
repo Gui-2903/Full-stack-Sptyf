@@ -1,0 +1,3 @@
+fiz o back end , colocar ainda o o front 
+
+cuidado pq o cara trocou o id por _id eu vou ter q retrocar 
